@@ -23,7 +23,7 @@
 
 ``` python manage.py startapp chat```
 
-**makemigration
+**makemigration**
 
 ```python manage.py makemigrations```
 
